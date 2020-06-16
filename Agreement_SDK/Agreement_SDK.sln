@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agreement_SDK", "Agreement_SDK\Agreement_SDK.csproj", "{5D6432EE-0A3A-4489-8275-3F636A508B5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agreement_SDK", "Agreement_SDK\Agreement_SDK.csproj", "{5D6432EE-0A3A-4489-8275-3F636A508B5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agreement6", "..\..\Agreement\Agreement6\Agreement6.csproj", "{F413D603-B071-4CEF-BEEB-8F82F4CC0866}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5D6432EE-0A3A-4489-8275-3F636A508B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D6432EE-0A3A-4489-8275-3F636A508B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D6432EE-0A3A-4489-8275-3F636A508B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F413D603-B071-4CEF-BEEB-8F82F4CC0866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F413D603-B071-4CEF-BEEB-8F82F4CC0866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F413D603-B071-4CEF-BEEB-8F82F4CC0866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F413D603-B071-4CEF-BEEB-8F82F4CC0866}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

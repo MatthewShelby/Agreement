@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taha\\source\\repos\\Agreement\\Agreement_SDK\\Agreement_SDK\\Agreement_SDK.csproj": {}
+    "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\Agreement_SDK\\Agreement_SDK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taha\\source\\repos\\Agreement\\Agreement_SDK\\Agreement_SDK\\Agreement_SDK.csproj": {
+    "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\Agreement_SDK\\Agreement_SDK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taha\\source\\repos\\Agreement\\Agreement_SDK\\Agreement_SDK\\Agreement_SDK.csproj",
+        "projectUniqueName": "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\Agreement_SDK\\Agreement_SDK.csproj",
         "projectName": "Agreement_SDK",
-        "projectPath": "C:\\Users\\taha\\source\\repos\\Agreement\\Agreement_SDK\\Agreement_SDK\\Agreement_SDK.csproj",
-        "packagesPath": "C:\\Users\\taha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taha\\source\\repos\\Agreement\\Agreement_SDK\\Agreement_SDK\\obj\\",
+        "projectPath": "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\Agreement_SDK\\Agreement_SDK.csproj",
+        "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\Agreement_SDK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\taha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -57,12 +56,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
