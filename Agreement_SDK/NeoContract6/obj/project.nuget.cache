@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "IqJePaTQhCqPAjMyxYFelAylnWrsM5nWVxtk5BrBmXaHXHhikLBrrLDO5iG/5e5rzAjprouerYFkAKh6jMI+bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\NeoContract6\\NeoContract6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matt\\.nuget\\packages\\neo.smartcontract.framework\\3.0.0-preview2\\neo.smartcontract.framework.3.0.0-preview2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "NeoContract6 depends on Neo.SmartContract.Framework (>= 3.0.0-preview1) but Neo.SmartContract.Framework 3.0.0-preview1 was not found. An approximate best match of Neo.SmartContract.Framework 3.0.0-preview2 was resolved.",
+      "libraryId": "Neo.SmartContract.Framework",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}
