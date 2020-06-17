@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\NeoContract6\\NeoContract6.csproj": {}
+    "C:\\Users\\Matt\\source\\repos\\AgreementGitHub\\Agreement6\\Agreement6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\NeoContract6\\NeoContract6.csproj": {
+    "C:\\Users\\Matt\\source\\repos\\AgreementGitHub\\Agreement6\\Agreement6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\NeoContract6\\NeoContract6.csproj",
-        "projectName": "NeoContract6",
-        "projectPath": "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\NeoContract6\\NeoContract6.csproj",
+        "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\AgreementGitHub\\Agreement6\\Agreement6.csproj",
+        "projectName": "Agreement6",
+        "projectPath": "C:\\Users\\Matt\\source\\repos\\AgreementGitHub\\Agreement6\\Agreement6.csproj",
         "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matt\\Source\\Repos\\AgreementGitHub\\Agreement_SDK\\NeoContract6\\obj\\",
+        "outputPath": "C:\\Users\\Matt\\source\\repos\\AgreementGitHub\\Agreement6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,12 +40,6 @@
       },
       "frameworks": {
         "netstandard2.1": {
-          "dependencies": {
-            "Neo.SmartContract.Framework": {
-              "target": "Package",
-              "version": "[3.0.0-preview1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
