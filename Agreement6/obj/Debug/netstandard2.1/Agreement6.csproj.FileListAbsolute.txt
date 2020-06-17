@@ -1,0 +1,11 @@
+C:\Users\Matt\source\repos\Agreement\Agreement6\bin\Debug\netstandard2.1\Agreement6.deps.json
+C:\Users\Matt\source\repos\Agreement\Agreement6\bin\Debug\netstandard2.1\Agreement6.dll
+C:\Users\Matt\source\repos\Agreement\Agreement6\bin\Debug\netstandard2.1\Agreement6.pdb
+C:\Users\Matt\source\repos\Agreement\Agreement6\bin\Debug\netstandard2.1\Neo.SmartContract.Framework.dll
+C:\Users\Matt\source\repos\Agreement\Agreement6\obj\Debug\netstandard2.1\Agreement6.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\Agreement\Agreement6\obj\Debug\netstandard2.1\Agreement6.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\Agreement\Agreement6\obj\Debug\netstandard2.1\Agreement6.AssemblyInfo.cs
+C:\Users\Matt\source\repos\Agreement\Agreement6\obj\Debug\netstandard2.1\Agreement6.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Agreement\Agreement6\obj\Debug\netstandard2.1\Agreement6.csproj.CopyComplete
+C:\Users\Matt\source\repos\Agreement\Agreement6\obj\Debug\netstandard2.1\Agreement6.dll
+C:\Users\Matt\source\repos\Agreement\Agreement6\obj\Debug\netstandard2.1\Agreement6.pdb
