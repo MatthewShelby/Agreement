@@ -25,7 +25,7 @@ namespace Agreement_SDK
             // get ScriptHash of KeyPair account
             UInt160 scriptHash = Contract.CreateSignatureContract(myKey.PublicKey).ScriptHash;
             Cosigner[] cosigners = new[] { new Cosigner { Scopes = WitnessScope.CalledByEntry, Account = scriptHash } };
-            byte[] script = scriptHash.MakeScript("AddAgText", "String for test");
+            byte[] script = scriptHash.MakeScript("addAgText", "String for test");
             // initialize the TransactionManager with rpc client and sender scripthash 
             TransactionManager txManager = new TransactionManager(client, scriptHash);
             // fill the script, attributes and cosigners 
