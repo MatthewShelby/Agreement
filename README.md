@@ -1,5 +1,4 @@
 # Agreement
-Agreement Smart Contract Project
 
 #
 Areemenr6 is the Neo SmartContract project.
