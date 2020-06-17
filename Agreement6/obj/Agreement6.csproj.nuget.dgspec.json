@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matt\\source\\repos\\AgreementGitHub\\Agreement6\\Agreement6.csproj": {}
+    "C:\\Users\\taha\\Source\\Repos\\Agreement\\Agreement6\\Agreement6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matt\\source\\repos\\AgreementGitHub\\Agreement6\\Agreement6.csproj": {
+    "C:\\Users\\taha\\Source\\Repos\\Agreement\\Agreement6\\Agreement6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\AgreementGitHub\\Agreement6\\Agreement6.csproj",
+        "projectUniqueName": "C:\\Users\\taha\\Source\\Repos\\Agreement\\Agreement6\\Agreement6.csproj",
         "projectName": "Agreement6",
-        "projectPath": "C:\\Users\\Matt\\source\\repos\\AgreementGitHub\\Agreement6\\Agreement6.csproj",
-        "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matt\\source\\repos\\AgreementGitHub\\Agreement6\\obj\\",
+        "projectPath": "C:\\Users\\taha\\Source\\Repos\\Agreement\\Agreement6\\Agreement6.csproj",
+        "packagesPath": "C:\\Users\\taha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\taha\\Source\\Repos\\Agreement\\Agreement6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\taha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -55,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
